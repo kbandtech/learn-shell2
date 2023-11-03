@@ -20,3 +20,5 @@ echo -e "\e[31mHello in Red Color\e[0m"
 echo Hellow World
 
 sample date today
+New line added from newly created vm
+
