@@ -1,2 +1,7 @@
-Date=$(date +'%Y-%m-%d')
+Date=2023-02-17
+echo "Hello, Good Morning, Today's Date is ${Date}"
+
+#command substitution
+#Date=$(date +'%Y-%m-%d')
+Date=$(date)
 echo "Hello, Good Morning, Today's Date is ${Date}"
