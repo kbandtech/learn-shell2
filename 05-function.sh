@@ -8,8 +8,7 @@ xyz() {
     a=300
     echo Value of a = $a
     b=200
-     echo Value of b - $b
-     b=250
+   
 }
 
 ## Main Program
@@ -17,7 +16,7 @@ xyz() {
 a=120
 xyz 123 456
 echo Value of b - $b
-echo of value of a = $a
+
 
 
 
