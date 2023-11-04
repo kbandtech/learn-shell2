@@ -15,6 +15,7 @@ xyz() {
 a=120
 xyz 123 456
 echo Value of b - $b
+echo of value of a = $a
 
 
 
