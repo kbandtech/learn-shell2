@@ -7,8 +7,9 @@ xyz() {
     echo No of Arguments - $#
     a=300
     echo Value of a = $a
-    echo Value of b - $b
     b=200
+     echo Value of b - $b
+     b=250
 }
 
 ## Main Program
