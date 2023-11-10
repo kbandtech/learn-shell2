@@ -19,4 +19,19 @@ read -p 'Enter Course Name: ' name
     *) echo No Course Available
       ;;
  esac
-    
+
+
+## same above in if condition
+if [ "${name}" == "DevOps" ]; then
+     echo Welcome to DevOps Training
+     echo Timings are 6AM
+      
+elif [ "${name}" == "AWS" ]; then
+     echo Welcome to AWS Training
+     echo Timings are 7AM
+else
+     echo No Course Available
+       
+fi
+
+       
